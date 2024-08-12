@@ -1,1 +1,7 @@
-
+0_bckeypairs.txt
+artifacts
+cache
+elevator_address.txt
+solve_address.txt
+node_modules
+package-lock.json
